@@ -1,0 +1,8 @@
+0,15	Recv Ex2a_1: (init Ex2a (version 9))
+0,16	Recv Ex2b_1: (init Ex2b (version 9))
+0,16	Recv Ex2a_2: (init Ex2a (version 9))
+0,16	Recv Ex2b_2: (init Ex2b (version 9))
+0,26	Recv Ex2a_2: (move -41.88858153368079 26.766240998062877)
+0,26	Recv Ex2b_2: (move 15.24498880555168 -2.2492221164799844)
+0,26	Recv Ex2a_1: (move -14.070194579515436 6.294197113498441)
+0,26	Recv Ex2b_1: (move 24.901822186433787 -17.24909519496904)
